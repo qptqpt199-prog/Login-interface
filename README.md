@@ -175,4 +175,6 @@ Trang `dashboard.html` được bảo vệ bởi middleware `requireLogin`. Nế
 ## Giấy phép
 
 Dự án được phát hành tự do cho mục đích học tập và phát triển cá nhân, nghiêm cấm hành vi thương mại.
+
+## Minh hoạ
 <img width="1056" height="456" alt="image" src="https://github.com/user-attachments/assets/c91a5a3d-8db1-4042-b25c-5c266b0bd0bd" />
