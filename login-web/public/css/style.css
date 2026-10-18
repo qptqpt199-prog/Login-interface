@@ -1,0 +1,23 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
+body {
+  display: flex; justify-content: center; align-items: center;
+  height: 100vh; background: linear-gradient(135deg, #667eea, #764ba2);
+}
+.box {
+  background: #fff; padding: 40px; border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2); width: 350px;
+}
+.box h2 { margin-bottom: 20px; text-align: center; color: #333; }
+.box input {
+  width: 100%; padding: 12px; margin-bottom: 14px;
+  border: 1px solid #ddd; border-radius: 8px; font-size: 14px;
+}
+.box button {
+  width: 100%; padding: 12px; background: #667eea; color: #fff;
+  border: none; border-radius: 8px; font-size: 15px; cursor: pointer;
+  transition: 0.2s;
+}
+.box button:hover { background: #5563c1; }
+.box p { text-align: center; margin-top: 14px; font-size: 14px; }
+.box a { color: #667eea; text-decoration: none; }
+#message { text-align: center; color: red; margin-bottom: 10px; font-size: 13px; }
