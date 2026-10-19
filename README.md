@@ -178,3 +178,6 @@ Dự án được phát hành tự do cho mục đích học tập và phát tri
 
 ## Minh hoạ
 <img width="1056" height="456" alt="image" src="https://github.com/user-attachments/assets/c91a5a3d-8db1-4042-b25c-5c266b0bd0bd" />
+
+# Discord:
+[![Discord](https://img.shields.io/badge/Discord-Join%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/T7N7Gqy5uF)
