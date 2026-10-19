@@ -18,7 +18,7 @@ Dự án xây dựng hệ thống xác thực người dùng (đăng ký, đăng
 - [Xử lý lỗi thường gặp](#xử-lý-lỗi-thường-gặp)
 - [Tính năng dự kiến phát triển thêm](#tính-năng-dự-kiến-phát-triển-thêm)
 - [Giấy phép](#giấy-phép)
-  
+- [Minh hoạ](#minh-hoạ)
 ---
 
 ## Tính năng
