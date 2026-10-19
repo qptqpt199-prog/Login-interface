@@ -20,7 +20,7 @@ Dự án xây dựng hệ thống xác thực người dùng (đăng ký, đăng
 - [Giấy phép](#giấy-phép)
 - [Giấy phép](#1)
 ---
-#1
+
 ## Tính năng
 
 - Đăng ký tài khoản mới với **username**, **email**, **mật khẩu**.
@@ -171,7 +171,7 @@ Trang `dashboard.html` được bảo vệ bởi middleware `requireLogin`. Nế
 - Phân quyền người dùng theo vai trò Quản trị viên và Người dùng thường.
 
 ---
-
+# 1
 ## Giấy phép
 
 Dự án được phát hành tự do cho mục đích học tập và phát triển cá nhân, nghiêm cấm hành vi thương mại.
